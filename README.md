@@ -13,7 +13,7 @@ I'm a recent First-Class Computing with Creative Design graduate from Cardiff Me
 <h2>💻 Featured Projects:</h2>
 
 - <b>Crime Data Dashboard</b>  
-  🔗 [Real-time UK Crime Visualisation](https://github.com/colganlibby/crime-data-dashboard)  
+  📁 [View GitHub Repository](https://github.com/colganlibby/CrimeDataDashboard)   
   - Built with JavaScript, APIs, and responsive web design
   - Fetches and displays police data on an interactive map
   
