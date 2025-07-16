@@ -17,18 +17,11 @@ I'm a recent First-Class Computing with Creative Design graduate from Cardiff Me
   - Built with JavaScript, APIs, and responsive web design
   - Fetches and displays police data on an interactive map
   
-- <b>Smart Traffic Surveillance System</b>  
-  - PM-led university capstone using AI for real-time traffic safety  
-  - Gantt charts, feasibility studies, risk planning, and stakeholder analysis included  
-  - [Project Overview PDF](#) (link if available)
-
-- <b>Coastal Safety Alert App</b>  
-  - Uses APIs for tide, flood, and storm warnings  
-  - Cloud database integration, alert triggers, and simple UI
-
-- <b>UX Portfolio Site</b>  
-  🔗 [colganlibby.github.io](https://colganlibby.github.io)  
-  - Fully customisable showcase of design work and case studies
+- **Restaurant Reservation & Ordering System**  
+  📁 [View GitHub Repository](https://github.com/colganlibby/RestaurantReservationSystem)  
+  - Full-stack web app built using PHP, MySQL, and Stripe  
+  - Developed for university module: Advanced Web Programming  
+  - Features secure logins, Stripe payments, booking logic, admin/staff dashboards, and promo code functionality
 
 ---
 
