@@ -23,6 +23,14 @@ I'm a recent First-Class Computing with Creative Design graduate from Cardiff Me
   - Developed for university module: Advanced Web Programming  
   - Features secure logins, Stripe payments, booking logic, admin/staff dashboards, and promo code functionality
 
+- **Arduino Coin Sorting & Counting Machine**  
+  📁 [View Project Overview](https://github.com/colganlibby/CoinSorter)  
+  - Physical computing project using Arduino Mega + IR sensors + LCD display  
+  - Automatically detects, sorts, and counts coins with real-time feedback  
+  - Developed for university module: CIS5002 – Physical Computing  
+  - Focused on solving manual inefficiency in coin handling with embedded tech
+
+
 ---
 
 <h2>📚 Tools & Skills:</h2>
