@@ -29,6 +29,13 @@ I'm a recent First-Class Computing with Creative Design graduate from Cardiff Me
   - Automatically detects, sorts, and counts coins with real-time feedback  
   - Developed for university module: CIS5002 – Physical Computing  
   - Focused on solving manual inefficiency in coin handling with embedded tech
+ 
+- **StudySync – UX Productivity Tool (In Progress)**  
+  📁 [View UX Case Study](https://github.com/colganlibby/StudySync)  
+  - Conceptual UX project focused on student wellbeing and gentle productivity  
+  - Combines Pomodoro timers, mood check-ins, task tracking, and “study buddy” sync mode  
+  - Designed with neurodivergent and burnout-prone students in mind  
+  - Includes UX deliverables like empathy maps, wireframes, and prototype (coming soon)
 
 
 ---
