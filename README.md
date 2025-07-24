@@ -1,64 +1,72 @@
-<h1>Hello, I'm Libby! <br/>
-<a href="https://www.linkedin.com/in/libby-colgan-31432a336/">Creative Technologist</a>,
-<a href="https://colganlibby.github.io/">UX Designer</a>,
-<a href="https://github.com/colganlibby">Frontend Developer</a>
-</h1>
-
-<h2>🧠 About Me:</h2>
-
-I'm a recent First-Class Computing with Creative Design graduate from Cardiff Metropolitan University. I love blending technology and creativity — whether that’s through building smart dashboards, designing intuitive user experiences, or coding data-driven apps. I'm especially passionate about projects that make a difference in public safety, accessibility, and data visualisation.
+<h1 align="center">👋 Hi, I’m Libby Colgan</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/libby-colgan-31432a336/">Creative Technologist</a> • 
+  <a href="https://colganlibby.github.io/">Frontend Developer</a> • 
+  <a href="https://github.com/colganlibby">UX Designer</a>
+</p>
 
 ---
 
-<h2>💻 Featured Projects:</h2>
+### 🧠 About Me
 
-- <b>Crime Data Dashboard</b>  
-  📁 [View GitHub Repository](https://github.com/colganlibby/CrimeDataDashboard)   
-  - Built with JavaScript, APIs, and responsive web design
-  - Fetches and displays police data on an interactive map
-  
-- **Restaurant Reservation & Ordering System**  
-  📁 [View GitHub Repository](https://github.com/colganlibby/RestaurantReservationSystem)  
-  - Full-stack web app built using PHP, MySQL, and Stripe  
-  - Developed for university module: Advanced Web Programming  
-  - Features secure logins, Stripe payments, booking logic, admin/staff dashboards, and promo code functionality
+I'm a recent **First-Class Computing with Creative Design** graduate from Cardiff Metropolitan University with a passion for blending code, creativity, and human-centred thinking.  
 
-- **Arduino Coin Sorting & Counting Machine**  
-  📁 [View Project Overview](https://github.com/colganlibby/CoinSorter)  
-  - Physical computing project using Arduino Mega + IR sensors + LCD display  
-  - Automatically detects, sorts, and counts coins with real-time feedback  
-  - Developed for university module: CIS5002 – Physical Computing  
-  - Focused on solving manual inefficiency in coin handling with embedded tech
- 
-- **StudySync – UX Productivity Tool (In Progress)**  
-  📁 [View UX Case Study](https://github.com/colganlibby/StudySync)  
-  - Conceptual UX project focused on student wellbeing and gentle productivity  
-  - Combines Pomodoro timers, mood check-ins, task tracking, and “study buddy” sync mode  
-  - Designed with neurodivergent and burnout-prone students in mind  
-  - Includes UX deliverables like empathy maps, wireframes, and prototype (coming soon)
+I design and build tools that solve real problems — from data-driven dashboards and physical computing projects to student wellbeing apps and game environments.  
 
+Currently seeking **graduate roles in software engineering, front-end development, or creative tech** — ideally remote or Cardiff-based.
 
 ---
 
-<h2>📚 Tools & Skills:</h2>
+### 💡 Key Projects
 
-- **Design:** Figma, Canva  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Dev Tools:** GitHub, VS Code, API integration  
-- **Data:** Tableau 
-- **Project Management:** Microsoft Project, Agile & Waterfall
+#### 🔍 [**Crime Data Dashboard**](https://github.com/colganlibby/CrimeDataDashboard)
+> Interactive web app that visualises live police data  
+- JavaScript, API integration, responsive layout  
+- Highlights public safety patterns using map-based UI  
+
+#### 🍽️ [**Restaurant Reservation System**](https://github.com/colganlibby/RestaurantReservationSystem)
+> Full-stack booking and payment platform  
+- PHP, MySQL, Stripe, secure logins, role-based dashboards  
+- Built for “Advanced Web Programming” module  
+
+#### 🪙 [**Arduino Coin Sorting Machine**](https://github.com/colganlibby/CoinSorter)
+> Hardware-based system that detects, sorts, and counts coins  
+- Arduino Mega, IR sensors, LCD interface  
+- Real-time embedded logic to solve manual inefficiency  
+
+#### 📚 [**StudySync – UX Productivity Tool**](https://github.com/colganlibby/StudySync)
+> In-progress project focused on student wellbeing and gentle productivity  
+- UX-first concept with Pomodoro timers, task tracking, and check-ins  
+- Features empathy maps, wireframes, and prototype UI (in Figma)
 
 ---
 
-<h2>✨ Highlights:</h2>
+### 🛠️ Tech Stack & Tools
 
-- 🥇 Graduated with First-Class Honours  
-- 🎓 Cardiff Met class of 2025  
-- 💼 Looking for graduate roles in UX Design, Front-End Development, or Creative Tech (Remote or Cardiff-based)
+**Languages:**  
+`JavaScript` `HTML` `CSS` `PHP` `Arduino (C++)`  
+
+**Frameworks & Tools:**  
+`GitHub` `VS Code` `REST APIs` `Stripe` `MySQL`  
+
+**Design & Prototyping:**  
+`Figma` `Canva`  
+
+**Project/Workflow:**  
+`Agile & Waterfall` `Microsoft Project` `Tableau`
 
 ---
 
-<h2>📲 Let’s Connect:</h2>
+### 🚀 Highlights
+
+- 🎓 Graduated **First-Class** from Cardiff Metropolitan University  
+- 📊 Delivered real-world software projects with working UI/code logic  
+- 🧠 Strong foundation in both **UX principles** and **functional software design**  
+- 🌍 Looking for roles in **software engineering** or **creative development**
+
+---
+
+### 📬 Let’s Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/libby-colgan-31432a336/" target="_blank">
@@ -73,3 +81,4 @@ I'm a recent First-Class Computing with Creative Design graduate from Cardiff Me
     <img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />
   </a>
 </p>
+
